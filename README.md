@@ -8,7 +8,7 @@
   + Information collected: Crawling_link, title, time (public date), content, keywords, summary, source (but I don't know how to separate its with the last information in content)
     (Thông tin thu thập: Link thu thập, Tiêu đề, Thời gian, Nội dung, Từ khoá, Tóm tắt, Nguồn trang (Nhưng nó nằm trong phần cuối của Nội dung nên em chỉ viết code lấy chứ không in)
   + Status: Completed (Hoàn thành)
-  + Number of page crawled: 2523 (end by close the terminal)
+  + Number of page crawled: 2523 (close the terminal to end)
   + Total crawl time: 137s
   + Crawl speed: 18.5 pages/second
 
