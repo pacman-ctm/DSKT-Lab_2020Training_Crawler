@@ -1,4 +1,4 @@
-# PhamAnhCuong_19020038_Nhom3_Crawler
+# DSKT Lab Training Program 2020 - Crawler
 
 # Introduction: 
   + Problem: Crawl data from a web (newspaper or/and e-commerce) using Scrapy.
