@@ -13,5 +13,5 @@
 
 # E-commerce: sendo.vn 
   + Information collected: Crawling_link, name, link_to_product, description, img_url, keywords, price_shop.
-  + Status: Failed - Can't open output file although code run successfully
+  + Status: Failed - Can't open output file although code run successfully (not fixed).
             
